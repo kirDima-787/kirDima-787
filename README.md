@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <a href="https://kirdima787.com" target="_blank">
+    <a href="https://kirdima787.com/gemma-animation.webp" target="_blank">
       <img src="gemma-animation.webp" width="650" alt="kirDima787 3D" />
     </a>
   </p>
