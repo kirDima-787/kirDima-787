@@ -1,8 +1,6 @@
 <div align="center">
   <p align="center">
-    <a href="https://kirdima787.com/gemma-animation.webp" target="_blank">
-      <img src="gemma-animation.webp" width="650" alt="kirDima787 3D" />
-    </a>
+   <img width="2546" height="1262" alt="{8806B698-CA3C-4461-AD1B-0BC740B34000}" src="https://github.com/user-attachments/assets/c55a7874-1001-4f2d-b730-1c6e69acdbe1" />
   </p>
   <h1>Hey Hefor!🖖</h1>
 
