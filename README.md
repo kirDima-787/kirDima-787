@@ -1,6 +1,9 @@
-# Hey Hefor!🖖
-**I'm nedokoder.**
+<div align="center">
+  <p align="center">
+    <a href="https://kirdima787.com" target="_blank">
+      <img src="gemma-animation.webp" width="650" alt="kirDima787 3D" />
+    </a>
+  </p>
+  <h1>Hey Hefor!🖖</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,java)](https://skillicons.dev)
-
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/windmc)
