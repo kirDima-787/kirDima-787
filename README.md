@@ -5,6 +5,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,php,html,css,java)](https://skillicons.dev)
 
-<img width="600" height="580" alt="photo_2026-06-14_21-43-17" src="https://github.com/user-attachments/assets/811fd989-2460-49de-80ee-c0991b2aa18f" />
-
-<img width="479" height="501" alt="image" src="https://github.com/user-attachments/assets/70a2860a-a854-4dc7-b56e-5cb567788763" />
+<img width="1780" height="764" alt="{9673A036-37C5-44A0-AE75-4C99D6741D0B}" src="https://github.com/user-attachments/assets/4150d9f5-a509-4eea-a37f-1abba6a2bd54" />
